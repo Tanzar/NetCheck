@@ -1,0 +1,1 @@
+start javaw -jar %JAVA_HOME%NetCheck.jar
